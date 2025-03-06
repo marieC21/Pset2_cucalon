@@ -1,6 +1,6 @@
 Esta es la estructura:
 
-Pset2_cucalon/
+Pset2_cucalon/ 
 ├── data/
 │   ├── raw/  → Datos originales
 │   ├── processed/  → Datos limpios y transformados
